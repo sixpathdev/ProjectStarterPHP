@@ -1,0 +1,8 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    background: lavender;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
